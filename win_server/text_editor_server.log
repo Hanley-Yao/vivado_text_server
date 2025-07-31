@@ -1,0 +1,116 @@
+2025-07-31 23:21:52,927 - INFO - 文本编辑器服务器启动，监听 0.0.0.0:3112
+2025-07-31 23:26:18,974 - INFO - 文本编辑器服务器启动，监听 0.0.0.0:3112
+2025-07-31 23:26:41,761 - INFO - 文本编辑器服务器启动，监听 0.0.0.0:3112
+2025-07-31 23:28:23,685 - INFO - 文本编辑器服务器启动，监听 100.119.115.23:3112
+2025-07-31 23:28:47,601 - INFO - 客户端连接: ('100.119.115.23', 11814)
+2025-07-31 23:28:47,601 - INFO - 客户端连接: ('100.119.115.23', 11815)
+2025-07-31 23:28:47,601 - INFO - 客户端断开连接: ('100.119.115.23', 11814)
+2025-07-31 23:28:47,622 - INFO - 接收到数据: {"file_path": "/home/test/Desktop/test.v", "line_number": 100}
+2025-07-31 23:28:47,632 - INFO - 转换路径: /home/test/Desktop/test.v -> \\100.114.7.121\share\Desktop\test.v
+2025-07-31 23:28:47,637 - WARNING - 文件不存在: \\100.114.7.121\share\Desktop\test.v
+2025-07-31 23:28:47,638 - INFO - 客户端断开连接: ('100.119.115.23', 11815)
+2025-07-31 23:29:31,905 - INFO - 客户端连接: ('100.114.7.121', 45998)
+2025-07-31 23:29:31,905 - INFO - 接收到数据: {"file_path": "/home/zheng/Desktop/Magic_Paper/V1.0/Magician/Magician.srcs/sources_1/new/AXI_valid_verify.v", "line_number": 22}
+2025-07-31 23:29:31,905 - INFO - 转换路径: /home/zheng/Desktop/Magic_Paper/V1.0/Magician/Magician.srcs/sources_1/new/AXI_valid_verify.v -> \\100.114.7.121\share\Desktop\Magic_Paper\V1.0\Magician\Magician.srcs\sources_1\new\AXI_valid_verify.v
+2025-07-31 23:29:31,917 - INFO - 执行命令: C:\Tools\Sublime_text_4\sublime_text.exe \\100.114.7.121\share\Desktop\Magic_Paper\V1.0\Magician\Magician.srcs\sources_1\new\AXI_valid_verify.v -l22
+2025-07-31 23:29:32,372 - INFO - 客户端断开连接: ('100.114.7.121', 45998)
+2025-07-31 23:29:33,013 - INFO - 客户端连接: ('100.114.7.121', 49502)
+2025-07-31 23:29:33,014 - INFO - 接收到数据: {"file_path": "/home/zheng/Desktop/Magic_Paper/V1.0/Magician/Magician.srcs/sources_1/new/AXI_valid_verify.v", "line_number": 22}
+2025-07-31 23:29:33,014 - INFO - 转换路径: /home/zheng/Desktop/Magic_Paper/V1.0/Magician/Magician.srcs/sources_1/new/AXI_valid_verify.v -> \\100.114.7.121\share\Desktop\Magic_Paper\V1.0\Magician\Magician.srcs\sources_1\new\AXI_valid_verify.v
+2025-07-31 23:29:33,016 - INFO - 执行命令: C:\Tools\Sublime_text_4\sublime_text.exe \\100.114.7.121\share\Desktop\Magic_Paper\V1.0\Magician\Magician.srcs\sources_1\new\AXI_valid_verify.v -l22
+2025-07-31 23:29:33,056 - INFO - 客户端断开连接: ('100.114.7.121', 49502)
+2025-07-31 23:29:48,456 - INFO - 客户端连接: ('100.114.7.121', 50996)
+2025-07-31 23:29:48,457 - INFO - 接收到数据: {"file_path": "/home/zheng/Desktop/Magic_Paper/V1.0/Magician/Magician.srcs/sources_1/new/AXI_epd_controller.v", "line_number": 23}
+2025-07-31 23:29:48,458 - INFO - 转换路径: /home/zheng/Desktop/Magic_Paper/V1.0/Magician/Magician.srcs/sources_1/new/AXI_epd_controller.v -> \\100.114.7.121\share\Desktop\Magic_Paper\V1.0\Magician\Magician.srcs\sources_1\new\AXI_epd_controller.v
+2025-07-31 23:29:48,466 - INFO - 执行命令: C:\Tools\Sublime_text_4\sublime_text.exe \\100.114.7.121\share\Desktop\Magic_Paper\V1.0\Magician\Magician.srcs\sources_1\new\AXI_epd_controller.v -l23
+2025-07-31 23:29:48,503 - INFO - 客户端断开连接: ('100.114.7.121', 50996)
+2025-07-31 23:30:07,824 - INFO - 客户端连接: ('100.114.7.121', 43424)
+2025-07-31 23:30:07,824 - INFO - 接收到数据: {"file_path": "/home/zheng/Desktop/Magic_Paper/V1.0/Magician/Magician.srcs/sources_1/new/AXI_fdma_w_video.v", "line_number": 23}
+2025-07-31 23:30:07,825 - INFO - 转换路径: /home/zheng/Desktop/Magic_Paper/V1.0/Magician/Magician.srcs/sources_1/new/AXI_fdma_w_video.v -> \\100.114.7.121\share\Desktop\Magic_Paper\V1.0\Magician\Magician.srcs\sources_1\new\AXI_fdma_w_video.v
+2025-07-31 23:30:07,835 - INFO - 执行命令: C:\Tools\Sublime_text_4\sublime_text.exe \\100.114.7.121\share\Desktop\Magic_Paper\V1.0\Magician\Magician.srcs\sources_1\new\AXI_fdma_w_video.v -l23
+2025-07-31 23:30:07,873 - INFO - 客户端断开连接: ('100.114.7.121', 43424)
+2025-07-31 23:30:15,543 - INFO - 客户端连接: ('100.114.7.121', 34884)
+2025-07-31 23:30:15,543 - INFO - 接收到数据: {"file_path": "/home/zheng/Desktop/Magic_Paper/V1.0/Magician/Magician.srcs/sources_1/new/bitslip_ctrl.v", "line_number": 23}
+2025-07-31 23:30:15,544 - INFO - 转换路径: /home/zheng/Desktop/Magic_Paper/V1.0/Magician/Magician.srcs/sources_1/new/bitslip_ctrl.v -> \\100.114.7.121\share\Desktop\Magic_Paper\V1.0\Magician\Magician.srcs\sources_1\new\bitslip_ctrl.v
+2025-07-31 23:30:15,554 - INFO - 执行命令: C:\Tools\Sublime_text_4\sublime_text.exe \\100.114.7.121\share\Desktop\Magic_Paper\V1.0\Magician\Magician.srcs\sources_1\new\bitslip_ctrl.v -l23
+2025-07-31 23:30:15,593 - INFO - 客户端断开连接: ('100.114.7.121', 34884)
+2025-07-31 23:30:21,002 - INFO - 客户端连接: ('100.114.7.121', 34894)
+2025-07-31 23:30:21,003 - INFO - 接收到数据: {"file_path": "/home/zheng/Desktop/Magic_Paper/V1.0/Magician/Magician.gen/sources_1/bd/design_opm_color/hdl/design_opm_color_wrapper.v", "line_number": 13}
+2025-07-31 23:30:21,004 - INFO - 转换路径: /home/zheng/Desktop/Magic_Paper/V1.0/Magician/Magician.gen/sources_1/bd/design_opm_color/hdl/design_opm_color_wrapper.v -> \\100.114.7.121\share\Desktop\Magic_Paper\V1.0\Magician\Magician.gen\sources_1\bd\design_opm_color\hdl\design_opm_color_wrapper.v
+2025-07-31 23:30:21,013 - INFO - 执行命令: C:\Tools\Sublime_text_4\sublime_text.exe \\100.114.7.121\share\Desktop\Magic_Paper\V1.0\Magician\Magician.gen\sources_1\bd\design_opm_color\hdl\design_opm_color_wrapper.v -l13
+2025-07-31 23:30:21,045 - INFO - 客户端断开连接: ('100.114.7.121', 34894)
+2025-07-31 23:33:04,810 - INFO - 文本编辑器服务器启动，监听 0.0.0.0:3112
+2025-07-31 23:33:23,550 - INFO - 客户端连接: ('100.119.115.23', 12588)
+2025-07-31 23:33:23,550 - INFO - 客户端断开连接: ('100.119.115.23', 12588)
+2025-07-31 23:33:23,550 - INFO - 客户端连接: ('100.119.115.23', 12589)
+2025-07-31 23:33:23,550 - INFO - 接收到数据: {"file_path": "/home/test/Desktop/test.v", "line_number": 100}
+2025-07-31 23:33:23,551 - INFO - 转换路径: /home/test/Desktop/test.v -> \\100.114.7.121\share\Desktop\test.v
+2025-07-31 23:33:23,556 - WARNING - 文件不存在: \\100.114.7.121\share\Desktop\test.v
+2025-07-31 23:33:23,557 - INFO - 客户端断开连接: ('100.119.115.23', 12589)
+2025-07-31 23:34:23,538 - INFO - 客户端连接: ('100.114.7.121', 51622)
+2025-07-31 23:34:23,539 - INFO - 接收到数据: {"file_path": "/home/zheng/Desktop/Magic_Paper/V1.0/Magician/Magician.srcs/sources_1/new/bitslip_ctrl.v", "line_number": 23}
+2025-07-31 23:34:23,539 - INFO - 转换路径: /home/zheng/Desktop/Magic_Paper/V1.0/Magician/Magician.srcs/sources_1/new/bitslip_ctrl.v -> \\100.114.7.121\share\Desktop\Magic_Paper\V1.0\Magician\Magician.srcs\sources_1\new\bitslip_ctrl.v
+2025-07-31 23:34:23,546 - INFO - 执行命令: C:\Tools\Sublime_text_4\sublime_text.exe \\100.114.7.121\share\Desktop\Magic_Paper\V1.0\Magician\Magician.srcs\sources_1\new\bitslip_ctrl.v -l23
+2025-07-31 23:34:23,585 - INFO - 客户端断开连接: ('100.114.7.121', 51622)
+2025-07-31 23:43:35,292 - INFO - 文本编辑器服务器启动，监听 0.0.0.0:3112
+2025-07-31 23:43:45,944 - INFO - 客户端连接: ('100.114.7.121', 54848)
+2025-07-31 23:43:45,945 - INFO - 接收到数据: {"file_path": "/home/zheng/Desktop/Magic_Paper/V1.0/Magician/Magician.srcs/sources_1/new/AXI_pixel_processing.v", "line_number": 23}
+2025-07-31 23:43:45,945 - INFO - 转换路径: /home/zheng/Desktop/Magic_Paper/V1.0/Magician/Magician.srcs/sources_1/new/AXI_pixel_processing.v -> \\100.114.7.121\share\Desktop\Magic_Paper\V1.0\Magician\Magician.srcs\sources_1\new\AXI_pixel_processing.v
+2025-07-31 23:43:45,956 - INFO - 执行命令: C:\Tools\Sublime_text_4\sublime_text.exe \\100.114.7.121\share\Desktop\Magic_Paper\V1.0\Magician\Magician.srcs\sources_1\new\AXI_pixel_processing.v -l23
+2025-07-31 23:43:45,981 - INFO - 客户端断开连接: ('100.114.7.121', 54848)
+2025-07-31 23:43:49,578 - INFO - 客户端连接: ('100.114.7.121', 54854)
+2025-07-31 23:43:49,579 - INFO - 接收到数据: {"file_path": "/home/zheng/Desktop/Magic_Paper/V1.0/Magician/Magician.srcs/sources_1/new/image_processing_color.v", "line_number": 26}
+2025-07-31 23:43:49,579 - INFO - 转换路径: /home/zheng/Desktop/Magic_Paper/V1.0/Magician/Magician.srcs/sources_1/new/image_processing_color.v -> \\100.114.7.121\share\Desktop\Magic_Paper\V1.0\Magician\Magician.srcs\sources_1\new\image_processing_color.v
+2025-07-31 23:43:49,588 - INFO - 执行命令: C:\Tools\Sublime_text_4\sublime_text.exe \\100.114.7.121\share\Desktop\Magic_Paper\V1.0\Magician\Magician.srcs\sources_1\new\image_processing_color.v -l26
+2025-07-31 23:43:49,613 - INFO - 客户端断开连接: ('100.114.7.121', 54854)
+2025-07-31 23:47:16,203 - INFO - 文本编辑器服务器启动，监听 0.0.0.0:3112
+2025-07-31 23:49:21,278 - INFO - 文本编辑器服务器启动，监听 0.0.0.0:3112
+2025-07-31 23:49:38,196 - INFO - 文本编辑器服务器启动，监听 0.0.0.0:3112
+2025-07-31 23:50:14,382 - INFO - 文本编辑器服务器启动，监听 0.0.0.0:3112
+2025-07-31 23:50:35,060 - INFO - 文本编辑器服务器启动，监听 0.0.0.0:3112
+2025-07-31 23:52:43,127 - INFO - 文本编辑器服务器启动，监听 0.0.0.0:3112
+2025-07-31 23:52:49,129 - INFO - 文本编辑器服务器启动，监听 0.0.0.0:3112
+2025-07-31 23:53:01,551 - INFO - 客户端连接: ('100.114.7.121', 37764)
+2025-07-31 23:53:01,551 - INFO - 接收到数据: {"file_path": "/home/zheng/Desktop/Magic_Paper/V1.0/Magician/Magician.srcs/sources_1/new/GaussianBlur_2D.v", "line_number": 23}
+2025-07-31 23:53:01,551 - INFO - 转换路径: /home/zheng/Desktop/Magic_Paper/V1.0/Magician/Magician.srcs/sources_1/new/GaussianBlur_2D.v -> \\100.114.7.121\share\Desktop\Magic_Paper\V1.0\Magician\Magician.srcs\sources_1\new\GaussianBlur_2D.v
+2025-07-31 23:53:01,560 - INFO - 执行命令: C:\Tools\Sublime_text_4\sublime_text.exe \\100.114.7.121\share\Desktop\Magic_Paper\V1.0\Magician\Magician.srcs\sources_1\new\GaussianBlur_2D.v -l23
+2025-07-31 23:53:01,585 - INFO - 客户端断开连接: ('100.114.7.121', 37764)
+2025-07-31 23:55:14,903 - INFO - 客户端连接: ('100.114.7.121', 44984)
+2025-07-31 23:55:16,698 - INFO - 客户端连接: ('100.114.7.121', 45000)
+2025-07-31 23:55:19,016 - INFO - 接收到数据: {"file_path": "/home/zheng/Desktop/Magic_Paper/V1.0/Magician/Magician.srcs/sources_1/new/delayer.v", "line_number": 49}
+2025-07-31 23:55:19,016 - INFO - 接收到数据: {"file_path": "/home/zheng/Desktop/Magic_Paper/V1.0/Magician/Magician.srcs/sources_1/new/delayer.v", "line_number": 49}
+2025-07-31 23:55:19,017 - INFO - 转换路径: /home/zheng/Desktop/Magic_Paper/V1.0/Magician/Magician.srcs/sources_1/new/delayer.v -> \\100.114.7.121\share\Desktop\Magic_Paper\V1.0\Magician\Magician.srcs\sources_1\new\delayer.v
+2025-07-31 23:55:19,017 - INFO - 转换路径: /home/zheng/Desktop/Magic_Paper/V1.0/Magician/Magician.srcs/sources_1/new/delayer.v -> \\100.114.7.121\share\Desktop\Magic_Paper\V1.0\Magician\Magician.srcs\sources_1\new\delayer.v
+2025-07-31 23:55:19,028 - INFO - 执行命令: C:\Tools\Sublime_text_4\sublime_text.exe \\100.114.7.121\share\Desktop\Magic_Paper\V1.0\Magician\Magician.srcs\sources_1\new\delayer.v -l49
+2025-07-31 23:55:19,028 - INFO - 执行命令: C:\Tools\Sublime_text_4\sublime_text.exe \\100.114.7.121\share\Desktop\Magic_Paper\V1.0\Magician\Magician.srcs\sources_1\new\delayer.v -l49
+2025-07-31 23:55:19,078 - INFO - 客户端断开连接: ('100.114.7.121', 44984)
+2025-07-31 23:55:19,078 - INFO - 客户端断开连接: ('100.114.7.121', 45000)
+2025-07-31 23:55:48,488 - INFO - 客户端连接: ('100.114.7.121', 50130)
+2025-07-31 23:55:48,489 - INFO - 接收到数据: {"file_path": "/home/zheng/Desktop/Magic_Paper/V1.0/Magician/Magician.srcs/sources_1/new/video_overlay_color.v", "line_number": 23}
+2025-07-31 23:55:48,490 - INFO - 转换路径: /home/zheng/Desktop/Magic_Paper/V1.0/Magician/Magician.srcs/sources_1/new/video_overlay_color.v -> \\100.114.7.121\share\Desktop\Magic_Paper\V1.0\Magician\Magician.srcs\sources_1\new\video_overlay_color.v
+2025-07-31 23:55:48,491 - INFO - 执行命令: C:\Tools\Sublime_text_4\sublime_text.exe \\100.114.7.121\share\Desktop\Magic_Paper\V1.0\Magician\Magician.srcs\sources_1\new\video_overlay_color.v -l23
+2025-07-31 23:55:48,517 - INFO - 客户端断开连接: ('100.114.7.121', 50130)
+2025-07-31 23:55:54,701 - INFO - 客户端连接: ('100.114.7.121', 48808)
+2025-07-31 23:55:54,701 - INFO - 接收到数据: {"file_path": "/home/zheng/Desktop/Magic_Paper/V1.0/Magician/Magician.srcs/sources_1/new/data_arrangement.v", "line_number": 45}
+2025-07-31 23:55:54,702 - INFO - 转换路径: /home/zheng/Desktop/Magic_Paper/V1.0/Magician/Magician.srcs/sources_1/new/data_arrangement.v -> \\100.114.7.121\share\Desktop\Magic_Paper\V1.0\Magician\Magician.srcs\sources_1\new\data_arrangement.v
+2025-07-31 23:55:54,703 - INFO - 执行命令: C:\Tools\Sublime_text_4\sublime_text.exe \\100.114.7.121\share\Desktop\Magic_Paper\V1.0\Magician\Magician.srcs\sources_1\new\data_arrangement.v -l45
+2025-07-31 23:55:54,728 - INFO - 客户端断开连接: ('100.114.7.121', 48808)
+2025-07-31 23:55:59,871 - INFO - 客户端连接: ('100.114.7.121', 48820)
+2025-07-31 23:55:59,872 - INFO - 接收到数据: {"file_path": "/home/zheng/Desktop/Magic_Paper/V1.0/Magician/Magician.srcs/sim_1/new/pixel_processing_tb.v", "line_number": 23}
+2025-07-31 23:55:59,873 - INFO - 转换路径: /home/zheng/Desktop/Magic_Paper/V1.0/Magician/Magician.srcs/sim_1/new/pixel_processing_tb.v -> \\100.114.7.121\share\Desktop\Magic_Paper\V1.0\Magician\Magician.srcs\sim_1\new\pixel_processing_tb.v
+2025-07-31 23:55:59,884 - INFO - 执行命令: C:\Tools\Sublime_text_4\sublime_text.exe \\100.114.7.121\share\Desktop\Magic_Paper\V1.0\Magician\Magician.srcs\sim_1\new\pixel_processing_tb.v -l23
+2025-07-31 23:55:59,908 - INFO - 客户端断开连接: ('100.114.7.121', 48820)
+2025-07-31 23:57:58,475 - INFO - 文本编辑器服务器启动，监听 0.0.0.0:3112
+2025-07-31 23:59:37,955 - INFO - 文本编辑器服务器启动，监听 0.0.0.0:3112
+2025-07-31 23:59:55,494 - INFO - 文本编辑器服务器启动，监听 0.0.0.0:3112
+2025-08-01 00:00:08,370 - INFO - 客户端连接: ('100.114.7.121', 59352)
+2025-08-01 00:00:08,370 - INFO - 接收到数据: {"file_path": "/home/zheng/Desktop/Magic_Paper/V1.0/Magician/Magician.srcs/sources_1/new/video_register_slice.v", "line_number": 23}
+2025-08-01 00:00:08,371 - INFO - 转换路径: /home/zheng/Desktop/Magic_Paper/V1.0/Magician/Magician.srcs/sources_1/new/video_register_slice.v -> \\100.114.7.121\share\Desktop\Magic_Paper\V1.0\Magician\Magician.srcs\sources_1\new\video_register_slice.v
+2025-08-01 00:00:08,380 - INFO - 执行命令: C:\Tools\Sublime_text_4\sublime_text.exe \\100.114.7.121\share\Desktop\Magic_Paper\V1.0\Magician\Magician.srcs\sources_1\new\video_register_slice.v -l23
+2025-08-01 00:00:08,404 - INFO - 客户端断开连接: ('100.114.7.121', 59352)
+2025-08-01 00:00:36,358 - INFO - 客户端连接: ('100.114.7.121', 33622)
+2025-08-01 00:00:36,359 - INFO - 接收到数据: {"file_path": "/home/zheng/Desktop/Magic_Paper/V1.0/Magician/Magician.srcs/sources_1/new/GaussianBlur_2D.v", "line_number": 23}
+2025-08-01 00:00:36,360 - INFO - 转换路径: /home/zheng/Desktop/Magic_Paper/V1.0/Magician/Magician.srcs/sources_1/new/GaussianBlur_2D.v -> \\100.114.7.121\share\Desktop\Magic_Paper\V1.0\Magician\Magician.srcs\sources_1\new\GaussianBlur_2D.v
+2025-08-01 00:00:36,368 - INFO - 执行命令: C:\Tools\Sublime_text_4\sublime_text.exe \\100.114.7.121\share\Desktop\Magic_Paper\V1.0\Magician\Magician.srcs\sources_1\new\GaussianBlur_2D.v -l23
+2025-08-01 00:00:36,393 - INFO - 客户端断开连接: ('100.114.7.121', 33622)
+2025-08-01 00:04:21,225 - INFO - 文本编辑器服务器启动，监听 0.0.0.0:3112
